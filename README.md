@@ -1,7 +1,7 @@
 # Curso de Python — Fundação Bradesco
 
 ![Python 3](https://img.shields.io/badge/Python-3-blue)
-![Status](https://img.shields.io/badge/status-em%20andamento-green)
+![Status](https://img.shields.io/badge/status-Concluido-green)
 ![Fundação Bradesco](https://img.shields.io/badge/Funda%C3%A7%C3%A3o-Bradesco-purple)
 
 ---
